@@ -1,0 +1,53 @@
+
+package dontsweatthetechnique;
+import java.util.Scanner;
+/**
+ *
+ * @author chase
+ */
+public class DontSweatTheTechnique
+     
+{
+
+    public static void main(String[] args) {
+        String Titties;
+        int Fault;
+        Boolean True;
+        Boolean Yeah;
+        Boolean Naw;
+        Boolean NO;
+        True = true;
+        Yeah = true;
+        Naw = false;
+        NO = false;
+        
+        Boolean Toes = True;
+        Scanner myObj = new Scanner(System.in);
+        Titties = "Shid an fard maybe";
+        System.out.println("What would it be like to live in an insane fascist country");
+        System.out.println(Titties);
+        System.out.println("Do you suck toes?");
+        Toes = myObj.nextBoolean();
+            if(True == true && Yeah == true ){
+                System.out.println("OhhhhWeeee same big time!");
+            } 
+            if else(Naw == false && NO == false){
+                System.out.println("Pffft nigga quit lyin!");
+            }
+            else{
+                System.out.println("Nigga what?");
+            }
+        System.out.println("How many toes you tryna suck");
+        Fault = myObj.nextInt();
+           if(Fault < 69){
+            System.out.println("Aww hell naw. Get to suckin!");
+        }
+            else{
+            System.out.println("Goddamn homie you nastyyy!");
+    }
+        
+    }
+   
+    
+    
+}
